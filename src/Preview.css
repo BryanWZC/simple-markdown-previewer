@@ -20,7 +20,9 @@
   line-height: 1.5; 
   background: #22223B;
   color: #F2E9E4; }
-
+#preview pre{
+  white-space: pre-wrap;
+}
 #preview {
   overflow-y: hidden;
   line-height: 1.1; 
