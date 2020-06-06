@@ -1,0 +1,27 @@
+#preview ol {
+  margin: 10px 0;
+  padding-left: 40px;
+  line-height: 1.5; }
+
+#preview ul {
+  margin: 10px 0;
+  padding-left: 40px;
+  line-height: 1.5; }
+
+#preview dd {
+  margin-left: 40px; }
+
+#preview blockquote {
+  margin: 10px 40px;
+  background: #22223B;
+  color: #F2E9E4; }
+
+#preview code {
+  line-height: 1.5; 
+  background: #22223B;
+  color: #F2E9E4; }
+
+#preview {
+  overflow-y: hidden;
+  line-height: 1.1; 
+  }
