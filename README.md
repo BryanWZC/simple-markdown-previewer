@@ -7,6 +7,8 @@ A [previewer] that converts Markdown to HTML.
 Here is a quick reference for the Markdown syntax. Find more on John Gruber's [website].  
 &nbsp;
 ### Basic Formatting
+&nbsp;
+General purpose:
 1. **Bold** `**TEXT**`
 2.*Emphasized* `*TEXT*`
 3.~~Strikethrough~~ `~~TEXT~~`
