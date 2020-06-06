@@ -10,9 +10,9 @@ Here is a quick reference for the Markdown syntax. Find more on John Gruber's [w
 &nbsp;
 General purpose:
 1. **Bold** `**TEXT**`
-2.*Emphasized* `*TEXT*`
-3.~~Strikethrough~~ `~~TEXT~~`
-4.Horizontal line rules (see below) `---` or `***` or `___`
+2. *Emphasized* `*TEXT*`
+3. ~~Strikethrough~~ `~~TEXT~~`
+4. Horizontal line rules (see below) `---` or `***` or `___`
 
 ---
 &nbsp;
